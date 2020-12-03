@@ -1,0 +1,1 @@
+Easy Manager tool for Android Systems.
