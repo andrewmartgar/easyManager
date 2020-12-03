@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Easy Manager</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="lets_get_started_text">Let\'s Get Started</string>
+    <string name="intro_text_description">Collaborate and plan together
+    across multiple devices on Easy Manager\'s minimalist interface.</string>
+
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="no_boards_available">No Boards are available</string>
+
+    <!-- Sign Up Activity -->
+    <string name="sign_up_description_text">Enter your name, email and password to register
+        with us</string>
+    <string name="sign_in_description_text">Enter your email and password</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <!-- Progress Dialog -->
+    <string name="please_click_back_again_to_exit">Please click back again to exit</string>
+    <string name="please_wait">Please wait&#8230;</string>
+
+    <!-- Navigation -->
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Log Out</string>
+
+    <!-- My Profile -->
+    <string name="mobile">Mobile Phone</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile">My Profile</string>
+
+    <!-- Create Board -->
+    <string name="create_board_title">Create Board</string>
+    <string name="create">CREATE</string>
+    <string name="board_name">Board Name</string>
+
+    <!-- Task Item -->
+    <string name="action_add_list">Add List</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="add_list">Add List</string>
+    <string name="members">Members</string>
+
+    <!-- Add Members -->
+    <string name="add_member">Add Member</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+    <string name="search_member">Search Member</string>
+    <string name="no_member">No such member found</string>
+    <string name="member_details_error_message">Error while getting user details</string>
+
+    <!-- Card Details -->
+    <string name="label_color">Select Label Color</string>
+    <string name="select_label_color">Label Color</string>
+    <string name="select_color">Select Color</string>
+    <string name="select_members">Select Members</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="select_member">Select Member</string>
+    <string name="default_notification_channel_id">easymanager_notification_channel_id</string>
+
+</resources>
